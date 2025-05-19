@@ -13,9 +13,9 @@ export default function Statistics(props: StatisticsProps) {
 
   return (
     <View style={styles.container}>
-      <StatisticsCard statistic={props.bestScore} text="MEILLEUR SCORE"/>
-      <StatisticsCard statistic={props.lastScore} text="DERNIER SCORE"/>
-      <StatisticsCard statistic={props.mediumScore} text="SCORE MOYEN"/>
+      <StatisticsCard statistic={props.bestScore} text1="MEILLEUR" text2="SCORE"/>
+      <StatisticsCard statistic={props.lastScore} text1="DERNIER" text2="SCORE"/>
+      <StatisticsCard statistic={props.mediumScore} text1="SCORE" text2="MOYEN"/>
     </View>
   );
 }

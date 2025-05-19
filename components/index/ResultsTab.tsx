@@ -19,6 +19,12 @@ export default function ResultTab(props: ResultTabProps) {
     <View style={styles.container}>
       <Text style={[styles.Poppins]}>RESULTATS</Text>
       {
+        props.lastThreeScores[4] && <ResultsRow result={props.lastThreeScores[4]}/>
+      }
+      {
+        props.lastThreeScores[3] && <ResultsRow result={props.lastThreeScores[3]}/>
+      }
+      {
         props.lastThreeScores[2] && <ResultsRow result={props.lastThreeScores[2]}/>
       }
       {

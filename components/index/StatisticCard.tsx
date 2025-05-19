@@ -8,7 +8,8 @@ import { Poppins_300Light } from "@expo-google-fonts/poppins";
 
 type StatisticsCardProps = {
   statistic: number,
-  text: string,
+  text1: string,
+  text2: string
 };
 
 export default function StatisticsCard(props: StatisticsCardProps) {
@@ -20,7 +21,8 @@ export default function StatisticsCard(props: StatisticsCardProps) {
   return (
     <View style={styles.container}>
       <Text style={[styles.BricolageGrotesque]}>{props.statistic}/40</Text>
-      <Text style={[styles.Poppins]}>{props.text}</Text>
+      <Text style={[styles.Poppins]}>{props.text1}</Text>
+      <Text style={[styles.Poppins]}>{props.text2}</Text>
     </View>
   );
 }

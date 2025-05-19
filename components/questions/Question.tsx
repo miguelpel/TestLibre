@@ -53,7 +53,6 @@ const styles = StyleSheet.create({
   },
   imageContainer: {
     width: '100%',
-    //flexDirection: 'row',
     alignSelf: 'center',
     justifyContent: 'center',
     alignItems: 'center',

@@ -26,12 +26,11 @@ const VideoPlayerApp = (props: VideoPlayerAppProps) => {
         source={{ uri: props.url }} // Video URL
         onError={(error) => console.error('Video Error:', error)} // Handle playback errors
         onLoad={(data) => {
-          console.log('Video Loaded:', data); // Log load data
+          console.log('Video Loaded'); // Log load data
           setDuration(data?.duration); // Set video duration state
         }}
-        onBuffer={(data) => console.log('Buffering:', data)} // Log buffering status
+        onBuffer={(data) => console.log('Buffering')} // Log buffering status
         onProgress={(data) => {
-          console.log('Video Progress:', data); // Log progress data
           progressRef.current = data.currentTime; // Update current playback time
         }}
       >
@@ -42,7 +41,7 @@ const VideoPlayerApp = (props: VideoPlayerAppProps) => {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: 'yellow', // Set background color to yellow
+    maxHeight: 300,
   },
 });
 

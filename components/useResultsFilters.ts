@@ -30,7 +30,9 @@ export const getMediumScore = (scoreArr: ScoreArr): number => {
     scoreArr.forEach((score: Score) => {
         addedScores += score.goodAnswers;
     })
-    return Math.round(addedScores / scoreArr.length)
+    const mediumScore = Math.round(addedScores / scoreArr.length);
+    if (Number.isNaN(mediumScore)) return 0;
+    return mediumScore;
 }
 
 export const getLastThreeScores = (scoreArr: ScoreArr): ScoreArr => {
