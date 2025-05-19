@@ -1,31 +1,68 @@
+import { useEffect, useState } from 'react';
+
 import { StyleSheet } from 'react-native';
 
-import EditScreenInfo from '@/components/EditScreenInfo';
-import { Text, View } from '@/components/Themed';
+import storage from '../storageInit';
 
-export default function TabOneScreen() {
+import Logo from '@/components/index/Logo';
+import Statistics from '@/components/index/Statistics';
+import ResultTab from '@/components/index/ResultsTab';
+import ButtonPlus from '@/components/common/ButtonPlus';
+import { View } from '@/components/Themed';
+import { getBestScore, getLastScore, getMediumScore, getLastThreeScores, ScoreArr } from '@/components/useResultsFilters';
+
+import { useFonts } from "expo-font";
+import { BricolageGrotesque_800ExtraBold } from "@expo-google-fonts/bricolage-grotesque";
+
+export default function Index() {
+  const [fontsLoaded] = useFonts({
+    BricolageGrotesque_800ExtraBold,
+  });
+
+  const [ bestScore, setBestScore ] = useState(0);
+  const [ lastScore, setLastScore ] = useState(0);
+  const [ mediumScore, setMediumScore ] = useState(0);
+  const [ lastThreeScores, setLastThreeScores ] = useState<ScoreArr>([]);
+
+  useEffect(() => {
+  storage
+  .getAllDataForKey('results')
+  .then(results => {
+    console.log("results: ", results);
+    setBestScore(getBestScore(results));
+    setLastScore(getLastScore(results));
+    setMediumScore(getMediumScore(results));
+    setLastThreeScores(getLastThreeScores(results));
+  })
+  .catch(err => {
+    console.warn(err.message);
+    switch (err.name) {
+      case 'NotFoundError':
+        // TODO;
+        break;
+      case 'ExpiredError':
+        // TODO
+        break;
+    }
+  });
+  }, []);
+
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Tab One</Text>
-      <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
-      <EditScreenInfo path="app/(tabs)/index.tsx" />
+      <Logo />
+      <Statistics bestScore={bestScore} lastScore={lastScore} mediumScore={mediumScore}/>
+      <ResultTab lastThreeScores={lastThreeScores}/>
+      <ButtonPlus />
     </View>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
+    padding: 15,
+    paddingTop: 20,
     flex: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  title: {
-    fontSize: 20,
-    fontWeight: 'bold',
-  },
-  separator: {
-    marginVertical: 30,
-    height: 1,
-    width: '80%',
+    alignItems: 'flex-start',
+    justifyContent: 'flex-start'
   },
 });
