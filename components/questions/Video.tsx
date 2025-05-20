@@ -24,6 +24,8 @@ const VideoPlayerApp = (props: VideoPlayerAppProps) => {
       <VideoPlayer
         ref={videoRef} // Reference to access VideoPlayer methods
         source={{ uri: props.url }} // Video URL
+        autoplay={true}
+        repeat={true}
         onError={(error) => console.error('Video Error:', error)} // Handle playback errors
         onLoad={(data) => {
           setDuration(data?.duration); // Set video duration state
