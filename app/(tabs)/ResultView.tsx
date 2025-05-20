@@ -95,7 +95,7 @@ const styles = StyleSheet.create({
   },
   button: {
     position: 'absolute',
-    bottom: 70,
+    bottom: 75,
     width: 230,
     height: 52,
     borderRadius: 15,

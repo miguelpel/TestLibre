@@ -38,7 +38,7 @@ export default function ButtonPlus(props: ButtonProps) {
 const styles = StyleSheet.create({
   container: {
     position: 'absolute',
-    bottom: 20,
+    bottom: 30,
     alignSelf: 'center',
     alignItems: 'center',
     justifyContent: 'center',
