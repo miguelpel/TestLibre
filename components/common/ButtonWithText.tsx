@@ -18,7 +18,6 @@ export default function ButtonPlus(props: ButtonProps) {
       });
 
     const handlePress = () => {
-      console.log('press')
       props.onClick();
     }
 

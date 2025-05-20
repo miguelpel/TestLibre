@@ -35,9 +35,8 @@ export default function QuestionsView() {
         checkAnswers();
         setCurrentQuestionIndex(currentQuestionIndex + 1);
       } else {
-        console.log("rightAnswers: ", rightAnswers);
-        setCurrentQuestionIndex(0); // might be better in a OnUnmount ??? since it seems that the component is not unmounted actually
-        setAllQuestions(); // Warning, it is not supposed to work like that as a loop!
+        setCurrentQuestionIndex(0);
+        setAllQuestions();
 
         const dateNow = Date.now();
         storage.save({

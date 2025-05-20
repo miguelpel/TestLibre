@@ -26,7 +26,6 @@ const VideoPlayerApp = (props: VideoPlayerAppProps) => {
         source={{ uri: props.url }} // Video URL
         onError={(error) => console.error('Video Error:', error)} // Handle playback errors
         onLoad={(data) => {
-          console.log('Video Loaded'); // Log load data
           setDuration(data?.duration); // Set video duration state
         }}
         onBuffer={(data) => console.log('Buffering')} // Log buffering status

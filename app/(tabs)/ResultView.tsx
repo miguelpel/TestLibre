@@ -35,7 +35,6 @@ export default function ResultView() {
   .getAllDataForKey('results')
   .then(results => {
     const lastScore = getLastScore(results);
-    console.log("LastScore: ", lastScore);
     setScore(lastScore);
   })
   .catch(err => {

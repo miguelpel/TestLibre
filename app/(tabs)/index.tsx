@@ -28,7 +28,6 @@ export default function Index() {
   storage
   .getAllDataForKey('results')
   .then(results => {
-    console.log("results: ", results);
     setBestScore(getBestScore(results));
     setLastScore(getLastScore(results));
     setMediumScore(getMediumScore(results));

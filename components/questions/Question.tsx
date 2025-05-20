@@ -25,7 +25,6 @@ export default function Question(props: QuestionProps) {
     Poppins_300Light,
   });
 
-  console.log("props.question.answers", props.question.answers)
   const onAnswer = (index: number) => {
     props.onAnswer(index)
   };
