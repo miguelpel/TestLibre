@@ -1,0 +1,513 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/BricolageGrotesque-VariableFont_opsz,wdth,wght.ttf",
+      "sha1": "e10ab1194080615b513411fb615eaadb82cd5160"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/OFL.txt",
+      "sha1": "46cb65302a6decda8ed10bd45247ebdbba2b6d54"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/README.txt",
+      "sha1": "9da2079cefd764c55382430967d3d0a6d132efdb"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque-Bold.ttf",
+      "sha1": "b2aedef46f4671362d339ddbaeca111c7569b7b6"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque-ExtraBold.ttf",
+      "sha1": "c4446efdf16173f42c1e95b3465e59074c298011"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque-ExtraLight.ttf",
+      "sha1": "88a8e95506a4b763aaad62fd397ef3c7f3e61c83"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque-Light.ttf",
+      "sha1": "8b54598e9809444374325ad65fb19d98b4aa94c4"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque-Medium.ttf",
+      "sha1": "312e556215ad62fadc5e075666fcad5b014d6d74"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque-Regular.ttf",
+      "sha1": "1923e5484379d4224ad6578146d7441da2234efa"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque-SemiBold.ttf",
+      "sha1": "7e6ee4c288f2bfbc7b9ed02ea12b00159c1d81f5"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt-Bold.ttf",
+      "sha1": "9b54000b09a4aad3a7875987e4230d83b183d281"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt-ExtraBold.ttf",
+      "sha1": "66275bc69962c4e6c36f8a77596bdfebf6dfc94f"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt-ExtraLight.ttf",
+      "sha1": "a8e4faa33f876864db131ec4ec1aa13b8be424d5"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt-Light.ttf",
+      "sha1": "c09b216bf42ed4c075e3a70e2d3a6960b3cb03d3"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt-Medium.ttf",
+      "sha1": "b5fe77e666d41dd97743defd5abe35d84b76eef9"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt-Regular.ttf",
+      "sha1": "cd1381a29556104a318df5719d48a7d31962f677"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt-SemiBold.ttf",
+      "sha1": "624ac5fd87d3eca35bcd21323881da449c713633"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt_Condensed-Bold.ttf",
+      "sha1": "30fbac69af565480de9ebcc1cc8fba3c491ff9a0"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt_Condensed-ExtraBold.ttf",
+      "sha1": "ba4c1ebf5a965f753e4940af1e1ee760e82aec1d"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt_Condensed-ExtraLight.ttf",
+      "sha1": "b782d6874d27ad2efff85111efb0001f2933d618"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt_Condensed-Light.ttf",
+      "sha1": "a0eb8c9a6098982a0292840e9a94c60a5793579b"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt_Condensed-Medium.ttf",
+      "sha1": "7a6df144d6180a5ac5a8d424fc844225914b1cb5"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt_Condensed-Regular.ttf",
+      "sha1": "41efc7bf5d48b0354b3656aebe4cf293533947f5"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt_Condensed-SemiBold.ttf",
+      "sha1": "42ae071a13ac4dcd8f4fb8ecba6cb33bc9a41fb0"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt_SemiCondensed-Bold.ttf",
+      "sha1": "01cb343944fa5b062b3cf2f0377965ffd3b7f7f3"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt_SemiCondensed-ExtraBold.ttf",
+      "sha1": "767502541fea080187ba61b800eec671037cec11"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt_SemiCondensed-ExtraLight.ttf",
+      "sha1": "33417541c5d34440216226ebd6331e336a99a08d"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt_SemiCondensed-Light.ttf",
+      "sha1": "0526e2414fe6d170e5a07bd077ca1b742f147f00"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt_SemiCondensed-Medium.ttf",
+      "sha1": "273654017492c1de8a1e1e1398ccd28122b57505"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt_SemiCondensed-Regular.ttf",
+      "sha1": "1a3c3b36a0b19fdfc9ec90c1a4ae85554e9065da"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_24pt_SemiCondensed-SemiBold.ttf",
+      "sha1": "2f15e214b058bafcca16e9757ae3df1cb5665850"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt-Bold.ttf",
+      "sha1": "99662f723e1ca8eb87686f5120edadbfe72a53f8"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt-ExtraBold.ttf",
+      "sha1": "dd9014103a0e6b33dd362572a95eb858fccceb83"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt-ExtraLight.ttf",
+      "sha1": "2ae27e1f90e375b38b7f2fe6a2cb6f57c7951b1b"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt-Light.ttf",
+      "sha1": "91eba8307d37de59b2bc1f6ac7f0b2239bcf2f84"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt-Medium.ttf",
+      "sha1": "5be999eeb94b37265f3cb3de86d9dee6e073c450"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt-Regular.ttf",
+      "sha1": "304ced79d1b4c61178c2e922a395c44411a41efd"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt-SemiBold.ttf",
+      "sha1": "2b1232c956d1d59478f2395ef948eb588ce34676"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt_Condensed-Bold.ttf",
+      "sha1": "a0c98e89e18e540bd2f410c99e9f36c9e2861691"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt_Condensed-ExtraBold.ttf",
+      "sha1": "44f881b6b004191e43703f7a8e1cf8835dc04164"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt_Condensed-ExtraLight.ttf",
+      "sha1": "b9eda996404a3917200cf13d26cc0d7b950c9be3"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt_Condensed-Light.ttf",
+      "sha1": "544f173dabe4a5d9ecd3dd7ee244caedfb1a3e2e"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt_Condensed-Medium.ttf",
+      "sha1": "2772846f71d17580bd4831f5ad4f880c8ff435de"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt_Condensed-Regular.ttf",
+      "sha1": "1cd4ea1df9a211ef7f3caa1a478ec9a2283aa240"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt_Condensed-SemiBold.ttf",
+      "sha1": "9d7fb11580e15966b1e21ef11b2a8ab47d8d34e3"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt_SemiCondensed-Bold.ttf",
+      "sha1": "3a69392bfdbc7789dd93e8ac6a1602b9a493a898"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt_SemiCondensed-ExtraBold.ttf",
+      "sha1": "b968cc15eadb165843e8bee88619e9e806d44d6e"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt_SemiCondensed-ExtraLight.ttf",
+      "sha1": "52d52a2a3cf2ea8eae65893b6b022635262b7ce0"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt_SemiCondensed-Light.ttf",
+      "sha1": "a060763b854922230097f325c2f6ba7324250081"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt_SemiCondensed-Medium.ttf",
+      "sha1": "7b82b1091ddf4abb22c93629d199f2b662ab7383"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt_SemiCondensed-Regular.ttf",
+      "sha1": "0ea0b87e8239c3e079b7be7c0f0c0736ed3e3973"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_36pt_SemiCondensed-SemiBold.ttf",
+      "sha1": "23c268839998320dbe1bb6cf0ca96fb6eb6433cd"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt-Bold.ttf",
+      "sha1": "8717fe6bcab348138dcabccef5a06926abea2e2e"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt-ExtraBold.ttf",
+      "sha1": "7d86bbb876ff56d22aa5b53cfa154edb4d8cbc40"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt-ExtraLight.ttf",
+      "sha1": "95e64b81361832e4a355c06af57ce0fddd83d222"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt-Light.ttf",
+      "sha1": "cd7b156c4420c6b5df008b3d3950bd1b985c7ffb"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt-Medium.ttf",
+      "sha1": "0a279f45aa40405dffa5ac4bfcc03677fd7599b1"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt-Regular.ttf",
+      "sha1": "01f26ee616fff78af8d788ecb602600c5ee3c434"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt-SemiBold.ttf",
+      "sha1": "c77ef93b5f90b419b99da3e6ae9b7131cd9f1cf1"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt_Condensed-Bold.ttf",
+      "sha1": "23e8d19baba6ff3a504f39e49f47b77f2f47d0dc"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt_Condensed-ExtraBold.ttf",
+      "sha1": "1d5a3ade202ea55c46b103c9b7d0620d8f6ba773"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt_Condensed-ExtraLight.ttf",
+      "sha1": "3774e16eb8c2d5345ec132b9127d6af3946a8109"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt_Condensed-Light.ttf",
+      "sha1": "fd10659d9d5f97c6da345e085dc3c93f21bfab8f"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt_Condensed-Medium.ttf",
+      "sha1": "44c3aba7774dc0b5d9f1b42412132aa7eb8920c1"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt_Condensed-Regular.ttf",
+      "sha1": "7257bbeb55cba9c6e974c10ce31ea41ff38b3ae2"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt_Condensed-SemiBold.ttf",
+      "sha1": "5e01e3ab448383a0eddd4a5eac56ef3b72d632be"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt_SemiCondensed-Bold.ttf",
+      "sha1": "72e8f342797333136727f6a5e88f4343b2eacd7f"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt_SemiCondensed-ExtraBold.ttf",
+      "sha1": "754b7b3fdf925da7fe60a9cdd9c77e6bac7a7df4"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt_SemiCondensed-ExtraLight.ttf",
+      "sha1": "58d0a8774083d25af0095d81c10a1f1167037294"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt_SemiCondensed-Light.ttf",
+      "sha1": "4b0535497c3f83099d90ce0a538053720ece4dc9"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt_SemiCondensed-Medium.ttf",
+      "sha1": "b37a9bf31581b06f692ac01f53b6af71bb7ab096"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt_SemiCondensed-Regular.ttf",
+      "sha1": "67edb1841200b1c52f4d5b847f9ce10f3fd9d8cd"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_48pt_SemiCondensed-SemiBold.ttf",
+      "sha1": "cd33a2e7bbcc61537e6472ac78e97715bddbc892"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt-Bold.ttf",
+      "sha1": "8382adb8f8e772c9b8f3b96a60ef767c3b5f6dbd"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt-ExtraBold.ttf",
+      "sha1": "8bb2bba51dbdad8e33de7fc68d5cd048fa4bd614"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt-ExtraLight.ttf",
+      "sha1": "6e74854548e3973ffa72ce0ae9b8c99c37473b68"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt-Light.ttf",
+      "sha1": "0c1e0b4de280aac64a5adf95afbea1826238aafd"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt-Medium.ttf",
+      "sha1": "8dfa133a3933ad1593224c24448803298afdefd8"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt-Regular.ttf",
+      "sha1": "74cb19b493368f78cd11f32d6be7455d50b2b8cf"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt-SemiBold.ttf",
+      "sha1": "2b6b6e1738b4e7c01ee12a905def42cefc07d2b1"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt_Condensed-Bold.ttf",
+      "sha1": "59452811b0f9a1cbb9f839a6d73db7e5bd6ca0b4"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt_Condensed-ExtraBold.ttf",
+      "sha1": "9ca188e04c7dfc914f8b4b349c5ae1ba2576a4d6"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt_Condensed-ExtraLight.ttf",
+      "sha1": "b131228e549469d7c87c54403171d22540c988fd"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt_Condensed-Light.ttf",
+      "sha1": "cf12d22832baa3538bfc6d79833ac908215017cb"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt_Condensed-Medium.ttf",
+      "sha1": "9d5d657857e7ad83ca59d8a8066dd05f7ee2dd33"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt_Condensed-Regular.ttf",
+      "sha1": "540c542cea7b6d663ebc7fc017ce12339bd8344f"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt_Condensed-SemiBold.ttf",
+      "sha1": "750d2853885f32920e499308f6209ca6b4f8fbfd"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt_SemiCondensed-Bold.ttf",
+      "sha1": "55a300b3b037a7165ae55582290ad472d6536742"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt_SemiCondensed-ExtraBold.ttf",
+      "sha1": "e3ebe0472fee9820d31dbfabbfc9dddda5451efc"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt_SemiCondensed-ExtraLight.ttf",
+      "sha1": "52c5f2d4d5d2afafd0ee711de26f39827af99340"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt_SemiCondensed-Light.ttf",
+      "sha1": "ec85ed595a365ec62737ce575453959859418c24"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt_SemiCondensed-Medium.ttf",
+      "sha1": "40a5ac9792f9beb03575ce9321563270448e9c1d"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt_SemiCondensed-Regular.ttf",
+      "sha1": "441f0145d865e70960971e7793d4523149139ca9"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_72pt_SemiCondensed-SemiBold.ttf",
+      "sha1": "75325c9886f26a14b6b01180207f620a349ff280"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_Condensed-Bold.ttf",
+      "sha1": "160bdf4890cebb14a2488df614dafd0fd88d1a30"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_Condensed-ExtraBold.ttf",
+      "sha1": "787f02c36bf72f2ac726b0a504339c3ba8025f71"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_Condensed-ExtraLight.ttf",
+      "sha1": "7cb0dc91198cffd1a7f399e0041a8a26d34ffe15"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_Condensed-Light.ttf",
+      "sha1": "756e8611aab7e80a765c5389424cf69d14362726"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_Condensed-Medium.ttf",
+      "sha1": "1a643869814a4dc9503572669b90c5aaa1e02e70"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_Condensed-Regular.ttf",
+      "sha1": "2d4e80a8426388b247964ed7eb9d3084fdd9b047"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_Condensed-SemiBold.ttf",
+      "sha1": "d132c8afe197750a7dd65d5bc34f94ead5ef9fe8"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_SemiCondensed-Bold.ttf",
+      "sha1": "bd942ba92659c06e62455ece1d5382bac3b69367"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_SemiCondensed-ExtraBold.ttf",
+      "sha1": "a7bd3ab4b352fc447aa1635f9e0303ac16693dd2"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_SemiCondensed-ExtraLight.ttf",
+      "sha1": "2856d787e2165f46c04842328a8d805d8cff6b02"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_SemiCondensed-Light.ttf",
+      "sha1": "e0d86d5f98b49640a51aac937efbd4fcdc358d43"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_SemiCondensed-Medium.ttf",
+      "sha1": "76eb822957b95a93e2816864cbc2d51cf6e0e846"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_SemiCondensed-Regular.ttf",
+      "sha1": "4192506132956116f539251b1441fc53b43641b8"
+    },
+    {
+      "path": "assets/fonts/Bricolage_Grotesque/static/BricolageGrotesque_SemiCondensed-SemiBold.ttf",
+      "sha1": "0893097c0ff674377de6b7380b4df7129b255ead"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-BlackItalic.ttf",
+      "sha1": "be4ef2aac7775a4b0179c0ecfce6cea8f7783f63"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-BoldItalic.ttf",
+      "sha1": "6de8952ca08d27ee77f57347d2cef4b4e26aa78f"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-ExtraBoldItalic.ttf",
+      "sha1": "94d3ee3acdbd00e37a715a25f2b5237666b5b8a3"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-ExtraLight.ttf",
+      "sha1": "85af6582a7e6155917c605f9d3fed68c02b23b06"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-ExtraLightItalic.ttf",
+      "sha1": "6fa0418f91032680d2d8fe4843009f2c80faa61d"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-Italic.ttf",
+      "sha1": "e2bfcd56016c3c915221ef1c5fc1a17b0776eb91"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-LightItalic.ttf",
+      "sha1": "f76102b361e705751a83b7b22fe954daf1f27dd4"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-MediumItalic.ttf",
+      "sha1": "b592c62fdf88c40cfd0f031bba6423b1d4430472"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-SemiBoldItalic.ttf",
+      "sha1": "0c8bed0a5942b2388d36b11c115685d9f01700b0"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-ThinItalic.ttf",
+      "sha1": "fb8fccca21550e71135f92bbaf8a2e8a12c90465"
+    },
+    {
+      "path": "assets/fonts/SpaceMono-Regular.ttf",
+      "sha1": "fae3a5a43b50e0408fd61e14383d94a023d332b0"
+    }
+  ]
+}
